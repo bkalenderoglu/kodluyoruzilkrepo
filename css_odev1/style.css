@@ -1,0 +1,22 @@
+*, *::after,*::before{
+    box-sizing: border-box;
+    
+}
+body{
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+
+
+}
+li{
+    list-style-position: inside;
+}
+h1{
+    color: #fb3640;
+}
+h2{
+    color: #542e71;
+}
+h4{
+    color: #fdca40;
+}
